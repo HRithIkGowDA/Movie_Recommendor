@@ -18,6 +18,4 @@ The fully completed code can be found in [`movie_recommender_completed.py`](http
 > Check out our [Introduction to Machine Learning](http://www.codeheroku.com/course?course_id=1) Course at [Code Heroku](http://www.codeheroku.com/) for a complete guide to Machine Learning.
 <br>
 
-<p align="center"><a href="http://www.codeheroku.com/">
- <img src="http://www.codeheroku.com/static/images/logo5.png"></a>
-</p>
+
