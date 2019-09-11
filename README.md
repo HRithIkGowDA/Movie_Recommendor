@@ -1,8 +1,6 @@
 # Building a Movie Recommendation Engine
 
-<p align="center">
- <img src="http://www.codeheroku.com/static/blog/images/pid14_results.png">
-</p>
+
 
 ### Instructions
 
