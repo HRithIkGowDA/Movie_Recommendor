@@ -9,4 +9,4 @@ count_matrix = cv.fit_transform(text)
 #print count_matrix.toarray()
 similarity_scores = cosine_similarity(count_matrix)
 
-print similarity_scores
+print similarity_scores 
